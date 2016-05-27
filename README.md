@@ -19,8 +19,3 @@ Raphaël Prevost (MaitreCourgette)
 For this project, we use the python-ardrone :
 https://github.com/venthur/python-ardrone
 
-
-
-
-
-
